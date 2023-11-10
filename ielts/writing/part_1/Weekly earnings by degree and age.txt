@@ -1,0 +1,7 @@
+The graph depicts the income of employees with three types of degrees over the age period of 21 to 60.
+
+Overall earnings of people increase gradually up to the age of 40. After this point a decrease can be seen.
+
+The first key feature shows that the employees with education different from first and higher are paid better. Income of such people starts from more than 400 pounds per week at age 21-25, then rises steadily and peaks at more than 800 pounds for employees of age 36-40. After this numbers of earnings reveal a drop to approximately 700 pounds at age 56-60.
+
+The income of people with first and higher degrees follow the same trend. Figures show an increase from less than 400 pounds at age 21-25 to approximately 700 pounds at age 41-45 followed by a fall of income at age 46-50 and then a rise at age 56-60.

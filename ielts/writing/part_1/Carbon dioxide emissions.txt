@@ -1,0 +1,5 @@
+The line graph depicts carbon footprint per person in European countries over the time period of 1967-2007. Overall, two opposite trends can be seen depending on the country: consistent increase (in Italy and Portugal) or decrease (in the United Kingdom and Sweden) of the carbon dioxide emissions.
+
+To begin, a downward trend can be seen in the United Kingdom and Sweden. Despite the mass of the emissions produced per person in Sweden peaked at more than 10 tonnes in 1977, it then gradually dropped to account for (replace with something simpler) the lowest value of emissions in 2007. In the United Kingdom CO2 emissions dropped from almost 11 metric tons in 1967 to less than 9 metric tones in 2007.
+
+(Linking word: furthemore...) In Italy and Portugal the volume of emissions appeared to follow the opposite pattern. In Italy emissions rose from approximately 4 tonnes in 1967 to nearly 8 tonnes in 2007. Whereas in Portugal there was an emissions increase (a rise in emissions) of 4 tonnes from a little more than 1 ton over the same time span. 
